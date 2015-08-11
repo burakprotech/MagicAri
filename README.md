@@ -1,0 +1,2 @@
+# MagicAri
+Baslangic
